@@ -1,0 +1,61 @@
+/* body{
+background-color: burlywood; 
+
+
+} */
+.image{
+    background-image: url("https://clipart.info/images/ccovers/1486144399Old-Open-Book-PNG-ClipArt.png");
+ 
+    background-size: 85% 97%;
+
+    background-repeat: no-repeat;
+  
+    padding: 9%;
+}
+b{
+    color: black;
+    font-family: cursive;
+    font-size: 1.2em;
+}
+.back{
+ 
+    background-image: url(./c652e05a439cc76cfc8dd50364955db9.jpg);
+   
+    background-size:cover;
+    background-repeat: no-repeat;
+
+}
+
+
+ul{
+
+    list-style-type: none;
+}
+
+/* #head{
+    background-color: lightblue;
+    color: darkblue;
+} */
+input{
+    background-color: transparent;
+    border: none;
+}
+button{
+    background-color:lightblue;
+    font-family: cursive;
+}
+
+#read{
+    background-color: transparent;
+    border: none;
+    color: white;
+}
+.container {
+    margin-left: 0;
+  }
+/* .bg{
+    background-image: url(./dp240-sigel-designpapier-perkament-500x500.jpg);
+    background-size: 200% 1000%;
+    background-repeat: no-repeat;
+    padding: 100px;
+} */
